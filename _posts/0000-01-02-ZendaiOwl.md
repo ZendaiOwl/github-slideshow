@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+This is an example for learning how to use slides on GitHub.
+
+Tralalala
